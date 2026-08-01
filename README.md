@@ -4,8 +4,8 @@
 
 ## Some Random Info
 
-* 📅 **Started** on May 23, 2021
-* 🏁 **Finished** on TBD
+* 📅 **Started** on July 17, 2026
+* 🏁 **Finished** N/A
 * ℹ️ **Python Versions I used**: [3.10]
 * 🔗 **Link to my repo for the previous course**: [MIT6.0001](https://github.com/dattienvu2008-design/MIT6.0001)
 
